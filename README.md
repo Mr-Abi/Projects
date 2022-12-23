@@ -1,2 +1,2 @@
 # Learning
-This contains the code of linear regression with single feature to predict the cost of medical insurance of new customers for a medical company.
+This repository contains the program codes of the concepts that i learned and implemented.
