@@ -4,8 +4,6 @@ import random
 import psycopg2
 import hashlib
 
-#enb
-#environmentfile
 s = Tk()
 s.title("Login Portal")
 s.geometry("700x700")
